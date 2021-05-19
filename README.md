@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.etsy.com/listing/660082889/eat-sleep-code-repeat-computer" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
 
 <p align="left"> 
   Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na  <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados (Postgres).
