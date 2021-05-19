@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalha na  <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados Postgres.
+  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na  <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados (Postgres).
 </p>
 
 <p align="left"> 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  Conclui o mestrado em Informática na <a href="https://www.ppgi.ufam.edu.br/"> UFAM </a>, minha pesquisa foi na área de sistemas de recomendação de conteúdo, utilizei Python e algoritmos baseado em filtragem colaboratica. 
+  Conclui o mestrado em Informática na <a href="https://www.ppgi.ufam.edu.br/"> UFAM </a>, minha pesquisa foi na área de sistemas de recomendação de conteúdo, utilizei Python e algoritmos baseado em filtragem colaboratica. Caso queira saber mais sobre minha pesquisa, fica a vontade para ler, bastar clicar <a href=https://tede.ufam.edu.br/handle/tede/7775> aqui </a>
 </p>
 
 
