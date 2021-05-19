@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuscarv69&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dionlaranjeira&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
 
 ## 📑 Em Andamento
 
