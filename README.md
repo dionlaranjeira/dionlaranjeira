@@ -54,12 +54,15 @@
   💌 Se você quiser entrar em contato comigo ou trocar uma ideia,<br>não hesite em me enviar uma mensagem: ⤵️
 
   <p align="left">
-    <a href="dionribeiro.rr@gmail.com" alt="Gmail" target="_blank">
+    <a href="mailto:dionribeiro.rr@gmail.com" alt="Gmail" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dionribeiro.rr@gmail.com"/></a>
     <a href="https://www.linkedin.com/in/dionlaranjeira/" alt="Linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dionlaranjeira/"/></a>  
-    <a href="https://www.instagram.com/dion.laranjeira/" alt="Instagram" target="_blank">
+    <a href="https://www.instagram.com/dionlaranjeira/" alt="Instagram" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dionlaranjeira/"/></a>  
+    <a href="https://api.whatsapp.com/send?phone=5595991318143&text=Ol%C3%A1,%20achei%20teu%20contado%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA." alt="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/Whatsapp-07bc4c?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=05595991680720"/></a> 
+ 
   </p>
 </p>
 
