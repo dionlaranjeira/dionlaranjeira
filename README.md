@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalha na  <a href = "(http://www.caer.com.br/)">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados Postgres.
+  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalha na  <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados Postgres.
 </p>
 
 <p align="left"> 
