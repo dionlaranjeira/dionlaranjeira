@@ -46,7 +46,7 @@
 ## 📱 Social
 
 <p  align="left">
-  💌 Se você quiser entrar em contato comigo ou trocar uma ideia,<br>não hesite em me enviar uma mensagem: ⤵️
+ Caso queira trocar uma idéia,<br> me manda uma mensagem ⤵️
 
   <p align="left">
     <a href="mailto:dionribeiro.rr@gmail.com" alt="Gmail" target="_blank">
