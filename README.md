@@ -28,11 +28,12 @@
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=dionlaranjeira&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
 
-## 📑 Em Andamento
+<!-- ## 📑 Em Andamento
 
 <p align="left">
   <img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   
-</p>
+</p> -->
 
 ## 📱 Social
 
@@ -60,7 +61,7 @@
   </p>
 </p>
 
-## 👔 Workspace
+<!-- ## 👔 Workspace
 
 ### 💾 OS
 
@@ -77,12 +78,11 @@
   <img src="https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Intellij_Idea-000000?style=for-the-badge&logo=Intellij%20idea&logoColor=white">
-</p>
+</p> -->
 
 
 - - -
 <p align="center" style="font-size: 20px ;">
-  😉 Obrigado pela visita, espero que tenha ajudado, qualquer coisa só chamar 👋
-  <br>
-  🔥 Vamos codar? 🚀
+  “Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.”
+Edsger Dijkstra
 </p>
