@@ -85,6 +85,8 @@
   <img src="https://img.shields.io/badge/Intellij_Idea-000000?style=for-the-badge&logo=Intellij%20idea&logoColor=white">
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlaranjeira&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" alt="github stats">
+
 - - -
 <p align="center" style="font-size: 20px ;">
   😉 Obrigado pela visita, espero que tenha ajudado, qualquer coisa só chamar 👋
