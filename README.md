@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  Conclui o mestrado em Informática na <a href="https://www.ppgi.ufam.edu.br/"> UFAM </a>, minha pesquisa foi na área de sistemas de recomendação de conteúdo, utilizei Python e algoritmos baseado em filtragem colaborativa. Caso queira saber mais sobre minha pesquisa, fica a vontade para ler, bastar clicar <a href=https://tede.ufam.edu.br/handle/tede/7775> aqui </a>
+  Conclui o mestrado em Informática na <a href="https://www.ppgi.ufam.edu.br/"> UFAM </a>, minha pesquisa foi na área de sistemas de recomendação de conteúdo, utilizei Python e algoritmos baseado em filtragem colaborativa. Caso queira saber mais sobre minha pesquisa, fique a vontade para ler, bastar clicar <a href=https://tede.ufam.edu.br/handle/tede/7775> aqui </a>
 </p>
 
 
