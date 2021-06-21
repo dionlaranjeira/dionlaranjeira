@@ -61,24 +61,7 @@
   </p>
 </p>
 
-<!-- ## 👔 Workspace
-
-### 💾 OS
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
-</p>
-
-###  💻 Setup
-
-<p align="self">
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Intellij_Idea-000000?style=for-the-badge&logo=Intellij%20idea&logoColor=white">
-</p> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlaranjeira&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" alt="github stats">
 
 
 - - -
