@@ -44,7 +44,7 @@
    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
-## Horas de desenvolvimento (2022)
+## 🛠️ Horas de desenvolvimento (2022)
   [![wakatime](https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg)](https://wakatime.com/@16c43c19-b8cc-47b4-8504-d9db3204dc71)
 
 ## 📱 Social
