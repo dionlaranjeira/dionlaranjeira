@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img scr="https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg">
+  [![wakatime](https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg)](https://wakatime.com/@16c43c19-b8cc-47b4-8504-d9db3204dc71)
   
 </p>
 
