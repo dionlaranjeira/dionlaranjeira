@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  [![wakatime](https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg)](https://wakatime.com/@16c43c19-b8cc-47b4-8504-d9db3204dc71)
+
   
 </p>
 
@@ -64,7 +64,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlaranjeira&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" alt="github stats">
 
-
+  [![wakatime](https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg)](https://wakatime.com/@16c43c19-b8cc-47b4-8504-d9db3204dc71)
 - - -
 <p align="center" style="font-size: 20px ;">
   “Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.”
