@@ -44,6 +44,9 @@
    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
+## Horas de desenvolvimento (2022)
+  [![wakatime](https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg)](https://wakatime.com/@16c43c19-b8cc-47b4-8504-d9db3204dc71)
+
 ## 📱 Social
 
 <p  align="left">
@@ -64,7 +67,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlaranjeira&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" alt="github stats">
 
-  [![wakatime](https://wakatime.com/badge/user/16c43c19-b8cc-47b4-8504-d9db3204dc71.svg)](https://wakatime.com/@16c43c19-b8cc-47b4-8504-d9db3204dc71)
 - - -
 <p align="center" style="font-size: 20px ;">
   “Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.”
