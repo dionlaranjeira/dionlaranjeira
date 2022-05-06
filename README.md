@@ -1,7 +1,7 @@
 <img src="http://cdn26.us1.fansshare.com/photo/hdwallpaperdownload/computer-wallpaper-desktop-background-hd-free-download-atpeek-computer-wallpaper-hd-free-download-desktop-full-size-images-background-1391885792.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
 
 <p align="left"> 
-  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na  <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native e Flutter), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados (Postgres).
+  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na  <a href = "https://quero2pay.com.br"> Quero 2 Pay </a>, como desenvolvedor Android e na <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native e Flutter), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados (Postgres).
 </p>
 
 <p align="left"> 
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Material--IO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
