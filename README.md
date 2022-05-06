@@ -1,7 +1,7 @@
 <img src="http://cdn26.us1.fansshare.com/photo/hdwallpaperdownload/computer-wallpaper-desktop-background-hd-free-download-atpeek-computer-wallpaper-hd-free-download-desktop-full-size-images-background-1391885792.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
 
 <p align="left"> 
-  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na  <a href = "https://quero2pay.com.br"> Quero 2 Pay </a>, como desenvolvedor Android e na <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native e Flutter), desenvolvimento de soluções Web (Java Prime Faces) e banco de dados (Postgres).
+  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na  <a href = "https://quero2pay.com.br"> Quero 2 Pay </a>, como desenvolvedor Android e na <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native e Flutter), desenvolvimento de API Rest (Java Spring Boot) e banco de dados (Postgres).
 </p>
 
 <p align="left"> 
