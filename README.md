@@ -1,11 +1,11 @@
 <img src="http://cdn26.us1.fansshare.com/photo/hdwallpaperdownload/computer-wallpaper-desktop-background-hd-free-download-atpeek-computer-wallpaper-hd-free-download-desktop-full-size-images-background-1391885792.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
 
 <p align="left"> 
-  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na <a href = "http://www.caer.com.br/">CAER</a>, onde atuo com desenvolvimento de aplicativos móveis (React Native e Flutter), desenvolvimento de API Rest (Java Spring Boot) e banco de dados (Postgres).
+  Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na <a href="https://www.cartaoriocard.com.br/rcc/institucional">Rio Card Mais</a>, onde atuo com desenvolvimento de aplicativos móveis (Flutter), desenvolvimento de API RESTful (Java Spring Boot).
 </p>
 
 <p align="left"> 
-  Também atuo como professor e coordenador no Curso de Sistemas de Informações do <a href = "https://estacio.br/">Centro Universitário Estácio da Amazônia</a>, ministro disciplinas de lógica de programação, programação para dispositivos móveis, desenvolvimento de sistemas web e banco de dados
+  Fui professor e coordenador no Curso de Sistemas de Informações do <a href = "https://estacio.br/">Centro Universitário Estácio da Amazônia</a>, ministrando disciplinas de lógica de programação, programação para dispositivos móveis, desenvolvimento de sistemas web e banco de dados
 </p>
 
 <p align="left"> 
