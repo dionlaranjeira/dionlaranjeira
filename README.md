@@ -1,4 +1,4 @@
-<img src="http://cdn26.us1.fansshare.com/photo/hdwallpaperdownload/computer-wallpaper-desktop-background-hd-free-download-atpeek-computer-wallpaper-hd-free-download-desktop-full-size-images-background-1391885792.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60" min-width="400px" max-width="400px" width="400px" align="right" alt="developerLife">
 
 <p align="left"> 
   Sou Dion Laranjeira, desenvolvedor Full Stack. Atualmente trabalho na <a href="https://www.cartaoriocard.com.br/rcc/institucional">Rio Card Mais</a>, onde atuo com desenvolvimento de aplicativos móveis (Flutter), desenvolvimento de API RESTful (Java Spring Boot).
